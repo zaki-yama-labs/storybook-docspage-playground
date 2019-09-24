@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/zaki-yama-labs/storybook-docspage-playground#readme",
   "dependencies": {
+    "@salesforce-ux/design-system": "2.8.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-lightning-design-system": "^2.5.7"
