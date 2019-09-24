@@ -4,6 +4,7 @@ import { Button } from './Button';
 
 export default {
   title: 'LDS Button',
+  component: Button,
 };
 
 export const noType = () => <Button/>;
